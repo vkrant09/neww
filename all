@@ -113,10 +113,10 @@
       "}"
     ],
     "description": "Task 1: Sensor & SensorCluster implementation using modern C++"
-  }
-}
+  },
 
-{
+
+
   "Task2 Using Alias Diagnostics": {
     "prefix": ["Task2_UsingAlias", "task2_using"],
     "body": [
@@ -218,10 +218,10 @@
       "}"
     ],
     "description": "Task 2 - Diagnostics module using `using` keyword (global + class scope)"
-  }
-}
+  },
 
-{
+
+
   "Task3 Polymorphism Controllers": {
     "prefix": ["Task3_Polymorphism", "task3_poly"],
     "body": [
@@ -342,10 +342,9 @@
       "}"
     ],
     "description": "Task 3 - Polymorphism using abstract base class, override, final, nullptr"
-  }
-}
+  },
 
-{
+
   "Task4 UniquePtr SensorFleet": {
     "prefix": ["Task4_UniquePtr", "task4_unique"],
     "body": [
@@ -435,10 +434,8 @@
       "}"
     ],
     "description": "Task 4 - Smart pointer management using std::unique_ptr and polymorphism"
-  }
-}
+  },
 
-{
   "Task5 Move Semantics DataLog": {
     "prefix": ["Task5_MoveSemantics", "task5_move"],
     "body": [
@@ -537,10 +534,8 @@
       "}"
     ],
     "description": "Task 5 - Move semantics using move constructor and move assignment"
-  }
-}
+  },
 
-{
   "Task6 SharedPtr DataLog": {
     "prefix": ["Task6_SharedPtr", "task6_shared"],
     "body": [
@@ -638,10 +633,9 @@
       "}"
     ],
     "description": "Task 6 - Shared ownership using std::shared_ptr with move-only DataLog"
-  }
-}
+  },
 
-{
+
   "Task7 Lambdas SensorEvents": {
     "prefix": ["Task7_Lambdas", "task7_lambda"],
     "body": [
@@ -748,11 +742,10 @@
       "}"
     ],
     "description": "Task 7 - Lambda expressions for filtering and modifying sensor events"
-  }
-}
+  },
 
 
-{
+
   "Task8 STL Algorithms Analytics": {
     "prefix": ["Task8_STLAlgorithms", "task8_stl"],
     "body": [
@@ -862,10 +855,10 @@
       "}"
     ],
     "description": "Task 8 - STL algorithms (sort, count_if, for_each) with lambdas"
-  }
-}
+  },
 
-{
+
+
   "Task9 Command Dispatcher": {
     "prefix": ["Task9_CommandDispatcher", "task9_dispatcher"],
     "body": [
@@ -974,11 +967,10 @@
       "}"
     ],
     "description": "Task 9 - Command dispatcher using std::function and std::reference_wrapper"
-  }
-}
+  },
 
 
-{
+
   "Task10 Callbacks std::function std::bind": {
     "prefix": ["Task10_Callbacks", "task10_callbacks"],
     "body": [
@@ -1083,11 +1075,11 @@
       "}"
     ],
     "description": "Task 10 - Callbacks using std::function, lambdas, and std::bind"
-  }
-}
+  },
 
 
-{
+
+
   "Task11 Threads Sensor Processing": {
     "prefix": ["Task11_Threads", "task11_thread"],
     "body": [
@@ -1176,11 +1168,10 @@
       "}"
     ],
     "description": "Task 11 - Parallel sensor processing using std::thread and std::ref"
-  }
-}
+  },
 
 
-{
+
   "Task12 Mutex Thread Safety": {
     "prefix": ["Task12_Mutex", "task12_mutex"],
     "body": [
@@ -1285,11 +1276,9 @@
       "}"
     ],
     "description": "Task 12 - Thread safety using std::mutex and std::lock_guard"
-  }
-}
+  },
 
 
-{
   "Task13 Async Future": {
     "prefix": ["Task13_AsyncFuture", "task13_async"],
     "body": [
@@ -1387,11 +1376,11 @@
       "}"
     ],
     "description": "Task 13 - Asynchronous execution using std::async and std::future"
-  }
-}
+  },
 
 
-{
+
+
   "Task14 Promise Future Pipeline": {
     "prefix": ["Task14_PromiseFuture", "task14_pipeline"],
     "body": [
@@ -1496,11 +1485,11 @@
       "}"
     ],
     "description": "Task 14 - Two-stage async pipeline using std::future (promise concept)"
-  }
-}
+  },
 
 
-{
+
+
   "Task15 Hybrid Concurrency": {
     "prefix": ["Task15_HybridConcurrency", "task15_hybrid"],
     "body": [
@@ -1590,11 +1579,11 @@
       "}"
     ],
     "description": "Task 15 - Hybrid concurrency using std::thread and std::async together"
-  }
-}
+  },
 
 
-{
+
+
   "Task16 Variant SensorData": {
     "prefix": ["Task16_Variant", "task16_variant"],
     "body": [
@@ -1669,11 +1658,11 @@
       "}"
     ],
     "description": "Task 16 - Type-safe data handling using std::variant and std::visit"
-  }
-}
+  },
 
 
-{
+
+
   "Task17 Optional Sensor Lookup": {
     "prefix": ["Task17_Optional", "task17_optional"],
     "body": [
@@ -1752,11 +1741,11 @@
       "}"
     ],
     "description": "Task 17 - Safe optional-based lookup using std::optional"
-  }
-}
+  },
 
 
-{
+
+
   "Task18 Any Sensor Metadata": {
     "prefix": ["Task18_Any", "task18_any"],
     "body": [
@@ -1831,11 +1820,11 @@
       "}"
     ],
     "description": "Task 18 - Runtime-typed metadata storage using std::any"
-  }
-}
+  },
 
 
-{
+
+
   "Task19 Constexpr Compile Time": {
     "prefix": ["Task19_Constexpr", "task19_constexpr"],
     "body": [
@@ -1897,11 +1886,10 @@
       "}"
     ],
     "description": "Task 19 - Compile-time computation using constexpr and if constexpr"
-  }
-}
+  },
 
 
-{
+
   "Task20 STL Integration": {
     "prefix": ["Task20_STLIntegration", "task20_stl"],
     "body": [
@@ -1986,5 +1974,4 @@
     "description": "Task 20 - Final integration using STL algorithms, lambdas, and modern C++"
   }
 }
-
 
